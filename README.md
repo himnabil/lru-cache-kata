@@ -12,7 +12,7 @@ An LRU (Least Recently Used) cache is a type of cache that removes the least rec
 
 The LRU Cache implementation must satisfy the following constraints:
 
-- All operations must have O(1) average time complexity
+- All operations must have $O(1)$ average time complexity
 - The cache has a fixed capacity set at construction time
 - The cache is designed for single-threaded use (no synchronization needed)
 - Implementation may use any Java SE classes but no external libraries
